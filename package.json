@@ -1,0 +1,14 @@
+{
+  "name": "@pascal-giguere/starter-node",
+  "version": "1.0.0",
+  "author": "Pascal Giguère",
+  "repository": "https://github.com/pascal-giguere/starter-node",
+  "private": true,
+  "license": "UNLICENSED",
+  "packageManager": "yarn@3.3.0",
+  "engines": {
+    "node": ">=18",
+    "npm": "please-use-yarn",
+    "yarn": "3.3.0"
+  }
+}
