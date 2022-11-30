@@ -12,3 +12,6 @@ yarn-debug.log
 yarn-error.log
 .pnp.*
 node_modules
+
+# Build folder
+dist
