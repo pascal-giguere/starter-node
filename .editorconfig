@@ -12,5 +12,5 @@ indent_style = space
 indent_size = 2
 max_line_length = 120
 
-[*.ts]
+[*.{js,ts}]
 quote_type = single
