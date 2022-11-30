@@ -6,4 +6,5 @@ Starter project using:
  - Yarn 3 (with PnP)
  - Prettier 2
  - ESLint 8
+ - Jest 29
  - Lodash 4
