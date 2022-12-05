@@ -1,10 +1,11 @@
-# starter-node
+# @pascal-giguere/starter-node
 
-Starter project using:
+Pascal's starter Node project using:
  - Node 18
  - TypeScript 4
  - Yarn 3 (with PnP)
  - Prettier 2
  - ESLint 8
  - Jest 29
- - Lodash 4
+
+Original repository: https://github.com/pascal-giguere/starter-node
