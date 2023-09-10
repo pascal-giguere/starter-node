@@ -2,7 +2,7 @@
 
 Pascal's starter Node project using:
  - Node 18
- - TypeScript 4
+ - TypeScript 5
  - Yarn 3 (with PnP)
  - Prettier 3
  - ESLint 8
