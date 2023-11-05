@@ -917,7 +917,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@pascal-giguere/starter-node@workspace:."
   dependencies:
-    "@types/jest": "npm:^29.5.4"
+    "@types/jest": "npm:^29.5.7"
     "@types/node": "npm:^20.8.10"
     "@typescript-eslint/eslint-plugin": "npm:^6.9.1"
     "@typescript-eslint/parser": "npm:^6.9.1"
@@ -1072,13 +1072,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/jest@npm:^29.5.4":
-  version: 29.5.4
-  resolution: "@types/jest@npm:29.5.4"
+"@types/jest@npm:^29.5.7":
+  version: 29.5.7
+  resolution: "@types/jest@npm:29.5.7"
   dependencies:
     expect: "npm:^29.0.0"
     pretty-format: "npm:^29.0.0"
-  checksum: c56081b958c06f4f3a30f7beabf4e94e70db96a4b41b8a73549fea7f9bf0a8c124ab3998ea4e6d040d1b8c95cfbe0b8d4a607da4bdea03c9e116f92c147df193
+  checksum: 64a31afa2c8bd003c7e637c36933170f731341957150274e518564e513d6dd7cb8dae61afea29ff703c2c8d3bdbbc8fb97095029a4fc91f55707f26753557583
   languageName: node
   linkType: hard
 
