@@ -1,10 +1,15 @@
 {
   "name": "@pascal-giguere/starter-node",
+  "description": "Pascal's starter Node project",
   "version": "1.0.0",
   "author": "Pascal Giguère",
-  "repository": "https://github.com/pascal-giguere/starter-node",
+  "homepage": "https://github.com/pascal-giguere/starter-node",
   "private": true,
   "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pascal-giguere/starter-node.git"
+  },
   "packageManager": "yarn@4.0.1",
   "engines": {
     "node": ">=20",
