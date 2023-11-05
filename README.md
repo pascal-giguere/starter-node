@@ -1,9 +1,9 @@
 # @pascal-giguere/starter-node
 
 Pascal's starter Node project using:
- - Node 18
+ - Node 20
  - TypeScript 5
- - Yarn 3 (with PnP)
+ - Yarn 4 (with PnP)
  - Prettier 3
  - ESLint 8
  - Jest 29
