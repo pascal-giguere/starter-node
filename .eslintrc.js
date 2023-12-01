@@ -4,6 +4,7 @@ module.exports = {
   env: {
     commonjs: true,
     es2020: true,
+    jest: true,
   },
   extends: ['eslint:recommended', 'plugin:@typescript-eslint/recommended'],
   parser: '@typescript-eslint/parser',
@@ -14,7 +15,6 @@ module.exports = {
   rules: {
     '@typescript-eslint/no-use-before-define': ['error', { functions: false, classes: false }],
     '@typescript-eslint/ban-ts-comment': 'off',
-    '@typescript-eslint/ban-ts-ignore': 'off',
     '@typescript-eslint/no-inferrable-types': 'off',
     '@typescript-eslint/explicit-function-return-type': [
       'warn',
@@ -30,15 +30,7 @@ module.exports = {
     '@typescript-eslint/no-empty-function': 'off',
     '@typescript-eslint/no-explicit-any': 'warn',
     '@typescript-eslint/no-non-null-assertion': 'off',
-    '@typescript-eslint/interface-name-prefix': 'off',
-    'no-use-before-define': 'off',
-    'no-case-declarations': 'warn',
-    'no-async-promise-executor': 'warn',
-    'no-useless-escape': 'warn',
-    'no-fallthrough': 'warn',
-    'no-redeclare': 'warn',
     'no-empty': 'warn',
-    'no-irregular-whitespace': 'warn',
     'no-duplicate-imports': 'error',
   },
 };
