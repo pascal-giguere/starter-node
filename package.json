@@ -17,6 +17,11 @@
     "yarn": "4.0.1"
   },
   "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "serve": "node .",
+    "test": "jest"
+  },
   "devDependencies": {
     "@types/jest": "^29.5.7",
     "@types/node": "^20.8.10",
