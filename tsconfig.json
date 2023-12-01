@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
-    "target": "es5",
+    "target": "es2022",
     "module": "commonjs",
-    "types": ["node"],
+    "types": ["node", "jest"],
     "moduleResolution": "node",
     "lib": ["esnext"],
     "allowJs": true,
