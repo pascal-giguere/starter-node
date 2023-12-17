@@ -1,3 +1,3 @@
-it('basic test', async () => {
+it("basic test", async () => {
   expect(true).toBeTruthy();
 });
