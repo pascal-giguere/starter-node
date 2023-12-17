@@ -1,9 +1,9 @@
 {
   "compilerOptions": {
     "target": "es2022",
-    "module": "commonjs",
+    "module": "nodenext",
     "types": ["node", "jest"],
-    "moduleResolution": "node",
+    "moduleResolution": "nodenext",
     "lib": ["esnext"],
     "allowJs": true,
     "allowSyntheticDefaultImports": true,
