@@ -5,7 +5,7 @@ Pascal's starter Node project using:
  - TypeScript 5
  - Yarn 4 (with PnP)
  - Prettier 3
- - ESLint 8
+ - ESLint 9
  - Jest 29
 
 Original repository: https://github.com/pascal-giguere/starter-node
