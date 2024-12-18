@@ -11,11 +11,11 @@
     "url": "https://github.com/pascal-giguere/starter-node.git"
   },
   "type": "module",
-  "packageManager": "yarn@4.4.1",
+  "packageManager": "yarn@4.5.3",
   "engines": {
     "node": ">=22",
     "npm": "please-use-yarn",
-    "yarn": "4.4.1"
+    "yarn": "4.5.3"
   },
   "main": "dist/index.js",
   "scripts": {
