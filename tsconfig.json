@@ -2,7 +2,7 @@
   "compilerOptions": {
     "target": "es2022",
     "module": "nodenext",
-    "types": ["node", "jest"],
+    "types": ["node"],
     "moduleResolution": "nodenext",
     "lib": ["esnext"],
     "allowJs": true,
@@ -17,6 +17,7 @@
     "skipLibCheck": true,
     "sourceMap": true,
     "strict": true,
+    "verbatimModuleSyntax": true,
     "outDir": "dist"
   },
   "include": ["src"],

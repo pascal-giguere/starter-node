@@ -1033,6 +1033,7 @@ __metadata:
     jest: "npm:^29.7.0"
     prettier: "npm:^3.5.3"
     ts-jest: "npm:^29.3.2"
+    ts-jest-resolver: "npm:^2.0.1"
     ts-node: "npm:^10.9.2"
     typescript: "npm:^5.8.3"
     typescript-eslint: "npm:^8.31.0"
@@ -4603,7 +4604,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"jest-resolve@npm:^29.7.0":
+"jest-resolve@npm:^29.5.0, jest-resolve@npm:^29.7.0":
   version: 29.7.0
   resolution: "jest-resolve@npm:29.7.0"
   dependencies:
@@ -6414,6 +6415,15 @@ __metadata:
   peerDependencies:
     typescript: ">=4.8.4"
   checksum: 10c0/9806a38adea2db0f6aa217ccc6bc9c391ddba338a9fe3080676d0d50ed806d305bb90e8cef0276e793d28c8a929f400abb184ddd7ff83a416959c0f4d2ce754f
+  languageName: node
+  linkType: hard
+
+"ts-jest-resolver@npm:^2.0.1":
+  version: 2.0.1
+  resolution: "ts-jest-resolver@npm:2.0.1"
+  dependencies:
+    jest-resolve: "npm:^29.5.0"
+  checksum: 10c0/260101bc1a3db4b3cd0596f07b8df1163caa7060acb2e354bce1c60c61bc447855458d3c7346f7d6b8fbe470410dedd387a2ca3d8a9964d54b95897caa50130a
   languageName: node
   linkType: hard
 
